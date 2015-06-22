@@ -1,0 +1,14 @@
+<RCC>
+  <qresource>
+    <file>icons/redo.png</file>
+    <file>icons/undo.png</file>
+    <file>icons/button_cancel.png</file>
+    <file>icons/copy.png</file>
+    <file>icons/cut.png</file>
+    <file>icons/document_save.png</file>
+    <file>icons/help.png</file>
+    <file>icons/new.png</file>
+    <file>icons/open.png</file>
+    <file>icons/paste.png</file>
+  </qresource>
+</RCC>
